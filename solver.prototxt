@@ -1,0 +1,18 @@
+net: "TVG_CRFRNN_COCO_VOC_TRAIN_2_CLASSES.prototxt"
+
+test_iter: 260
+test_interval: 1000
+
+base_lr: 1e-13
+lr_policy: "fixed"
+#gamma: 0.1
+#stepsize: 100 #100000
+display: 50
+max_iter: 100000
+momentum: 0.99
+weight_decay: 0.0005 #0.0016
+snapshot: 5000
+snapshot_prefix: "models/train_it10"
+solver_mode: CPU
+
+test_initialization: false
