@@ -1,0 +1,57 @@
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           5.000 minutes
+
+Number of customers             0
+
+Mean interarrival time      1.667 minutes
+
+
+
+Roh     0.600 
+
+Blocking probability      0.160
+
+Time simulation ended     139.788 minutes
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           5.000 minutes
+
+Number of customers             0
+
+Mean interarrival time      1.333 minutes
+
+
+
+Roh     0.750 
+
+Blocking probability      0.200
+
+Time simulation ended     124.658 minutes
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           5.000 minutes
+
+Number of customers             0
+
+Mean interarrival time      1.111 minutes
+
+
+
+Roh     0.900 
+
+Blocking probability      0.230
+
+Time simulation ended     123.488 minutes

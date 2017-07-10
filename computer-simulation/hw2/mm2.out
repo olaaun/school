@@ -1,0 +1,36 @@
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           100
+
+
+
+-----------------------------
+
+Mean service time      1.000 minutes (class I),       1.000 minutes (class II)
+
+
+
+Class 1: 
+Mean delay in system      1.841 minutes
+
+Class 2: 
+Mean delay in system      2.106 minutes
+
+Time simulation ended      19.191 minutes
+
+
+-----------------------------
+
+Mean service time      1.000 minutes (class I),       1.500 minutes (class II)
+
+
+
+Class 1: 
+Mean delay in system      2.067 minutes
+
+Class 2: 
+Mean delay in system      2.575 minutes
+
+Time simulation ended      19.663 minutes

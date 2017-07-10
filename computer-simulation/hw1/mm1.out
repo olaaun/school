@@ -1,0 +1,98 @@
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.250 minutes
+
+
+
+Mean delay in queue      0.693 minutes
+
+Mean delay in system      1.389 minutes
+
+Difference between sys/q-delat      0.696 minutes
+
+Mean number in queue     2.714
+
+Mean number in system     3.511
+
+Server utilization          0.797
+
+Time simulation ended      28.970 minutes
+
+
+-----------------------------
+
+Mean interarrival time      0.450 minutes
+
+
+
+Mean delay in queue      0.688 minutes
+
+Mean delay in system      1.409 minutes
+
+Difference between sys/q-delat      0.720 minutes
+
+Mean number in queue     2.055
+
+Mean number in system     2.805
+
+Server utilization          0.751
+
+Time simulation ended      33.511 minutes
+
+
+-----------------------------
+
+Mean interarrival time      0.650 minutes
+
+
+
+Mean delay in queue      0.612 minutes
+
+Mean delay in system      1.175 minutes
+
+Difference between sys/q-delat      0.563 minutes
+
+Mean number in queue     0.797
+
+Mean number in system     1.332
+
+Server utilization          0.534
+
+Time simulation ended      76.756 minutes
+
+
+-----------------------------
+
+Mean interarrival time      0.850 minutes
+
+
+
+Mean delay in queue      0.439 minutes
+
+Mean delay in system      0.923 minutes
+
+Difference between sys/q-delat      0.484 minutes
+
+Mean number in queue     0.503
+
+Mean number in system     1.045
+
+Server utilization          0.542
+
+Time simulation ended      88.781 minutes
+
+
+-----------------------------
+
+Mean interarrival time     -0.000 minutes
+
+
+Overflow of the array time_arrival at time -0.000000

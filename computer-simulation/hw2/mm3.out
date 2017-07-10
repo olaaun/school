@@ -1,0 +1,225 @@
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           100
+
+
+
+Buffer size     2147483647 and     2147483647 
+
+
+-----------------------------
+
+Mean interarrival time      0.150 minutes
+
+
+Queue 1
+Mean delay in system      1.796 minutes
+
+
+Queue 2
+Mean delay in system      1.509 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.300 minutes
+
+
+Queue 1
+Mean delay in system      1.523 minutes
+
+
+Queue 2
+Mean delay in system      1.708 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.450 minutes
+
+
+Queue 1
+Mean delay in system      1.559 minutes
+
+
+Queue 2
+Mean delay in system      1.712 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.600 minutes
+
+
+Queue 1
+Mean delay in system      1.223 minutes
+
+
+Queue 2
+Mean delay in system      1.831 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.750 minutes
+
+
+Queue 1
+Mean delay in system      1.307 minutes
+
+
+Queue 2
+Mean delay in system      1.395 minutes
+
+
+
+Buffer size     2147483647 and              7 
+
+
+-----------------------------
+
+Mean interarrival time      0.150 minutes
+
+
+Queue 1
+Mean delay in system      1.912 minutes
+
+
+Queue 2
+Mean delay in system      1.921 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.300 minutes
+
+
+Queue 1
+Mean delay in system      1.543 minutes
+
+
+Queue 2
+Mean delay in system      1.787 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.450 minutes
+
+
+Queue 1
+Mean delay in system      1.429 minutes
+
+
+Queue 2
+Mean delay in system      1.780 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.600 minutes
+
+
+Queue 1
+Mean delay in system      1.182 minutes
+
+
+Queue 2
+Mean delay in system      1.455 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.750 minutes
+
+
+Queue 1
+Mean delay in system      1.316 minutes
+
+
+Queue 2
+Mean delay in system      1.370 minutes
+
+
+
+Buffer size              7 and     2147483647 
+
+
+-----------------------------
+
+Mean interarrival time      0.150 minutes
+
+
+Queue 1
+Mean delay in system      1.641 minutes
+
+
+Queue 2
+Mean delay in system      1.436 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.300 minutes
+
+
+Queue 1
+Mean delay in system      1.485 minutes
+
+
+Queue 2
+Mean delay in system      1.885 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.450 minutes
+
+
+Queue 1
+Mean delay in system      1.304 minutes
+
+
+Queue 2
+Mean delay in system      1.911 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.600 minutes
+
+
+Queue 1
+Mean delay in system      0.807 minutes
+
+
+Queue 2
+Mean delay in system      1.184 minutes
+
+
+
+-----------------------------
+
+Mean interarrival time      0.750 minutes
+
+
+Queue 1
+Mean delay in system      1.219 minutes
+
+
+Queue 2
+Mean delay in system      1.097 minutes
+

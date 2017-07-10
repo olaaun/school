@@ -1,0 +1,156 @@
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.150 minutes
+
+
+Queue 1
+Mean delay in system      0.791 minutes
+
+Number of cust in queue           133
+
+
+Queue 2
+Mean delay in system      0.886 minutes
+
+Number of cust in queue           129
+
+
+Queue 3
+Mean delay in system      0.950 minutes
+
+Number of cust in queue           101
+
+
+Queue 4
+Mean delay in system      0.898 minutes
+
+Number of cust in queue           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.300 minutes
+
+
+Queue 1
+Mean delay in system      0.829 minutes
+
+Number of cust in queue           113
+
+
+Queue 2
+Mean delay in system      0.755 minutes
+
+Number of cust in queue           112
+
+
+Queue 3
+Mean delay in system      0.987 minutes
+
+Number of cust in queue           108
+
+
+Queue 4
+Mean delay in system      1.114 minutes
+
+Number of cust in queue           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.450 minutes
+
+
+Queue 1
+Mean delay in system      0.668 minutes
+
+Number of cust in queue           112
+
+
+Queue 2
+Mean delay in system      0.841 minutes
+
+Number of cust in queue           111
+
+
+Queue 3
+Mean delay in system      0.915 minutes
+
+Number of cust in queue           106
+
+
+Queue 4
+Mean delay in system      1.155 minutes
+
+Number of cust in queue           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.600 minutes
+
+
+Queue 1
+Mean delay in system      0.565 minutes
+
+Number of cust in queue           109
+
+
+Queue 2
+Mean delay in system      0.576 minutes
+
+Number of cust in queue           107
+
+
+Queue 3
+Mean delay in system      0.935 minutes
+
+Number of cust in queue           104
+
+
+Queue 4
+Mean delay in system      0.964 minutes
+
+Number of cust in queue           100
+
+
+
+-----------------------------
+
+Mean interarrival time      0.750 minutes
+
+
+Queue 1
+Mean delay in system      0.519 minutes
+
+Number of cust in queue           104
+
+
+Queue 2
+Mean delay in system      0.687 minutes
+
+Number of cust in queue           102
+
+
+Queue 3
+Mean delay in system      0.939 minutes
+
+Number of cust in queue           101
+
+
+Queue 4
+Mean delay in system      0.957 minutes
+
+Number of cust in queue           100
+

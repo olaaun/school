@@ -1,0 +1,76 @@
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           200
+
+Mean interarrival time      0.850 minutes
+
+
+
+Capacity             4 
+
+Blocking probability      0.225
+
+Time simulation ended     240.953 minutes
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           200
+
+Mean interarrival time      0.850 minutes
+
+
+
+Capacity             9 
+
+Blocking probability      0.106
+
+Time simulation ended     219.127 minutes
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           200
+
+Mean interarrival time      0.850 minutes
+
+
+
+Capacity            14 
+
+Blocking probability      0.032
+
+Time simulation ended     208.144 minutes
+
+
+-----------------------------
+
+Single-server queueing system
+
+Mean service time           1.000 minutes
+
+Number of customers           200
+
+Mean interarrival time      0.850 minutes
+
+
+
+Capacity            19 
+
+Blocking probability      0.018
+
+Time simulation ended     209.213 minutes
